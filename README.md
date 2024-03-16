@@ -1,2 +1,1 @@
-# RBR-Janne-V3-Beifahrer-
-Deutscher Beifahrer für Richard Burns Rally, Kompatibel zu Janne V3
+# Pre Beta und ohne Gewähr. Backup machen. Freu mich über Bugreports
