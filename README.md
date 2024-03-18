@@ -2,7 +2,7 @@
 
 # Deutsche Calls
 - Alles was "schmal" ist bezieht sich auf die Strassenbreite
-- Enger, Verengt usw. bezieht sich auch Kurven
+- Enger, Verengt usw. bezieht sich auf Kurven
 - Quetscht bedeutet [Sumppu](Plugins/Pacenote/Bilder/sumppu.png)
 
   
