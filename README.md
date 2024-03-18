@@ -1,6 +1,10 @@
 # Pre Beta und ohne Gewähr. Backup machen. Freu mich über Bugreports
 
-[Hier gibt es ein Dokument mit allen calls und deren Übersetzungen.](https://docs.google.com/spreadsheets/d/16JNYN5hyVEVwLDBPyIYdAFQwzVh-pTOagwt5hppMIM4/edit#gid=643819232)
+# Deutsche Calls
+- Alles was "schmal" ist bezieht sich auf die Strassenbreite
+- Enger, Verengt usw. bezieht sich auch Kurven
+- Quetscht bedeutet [Sumppu](https://cdn.discordapp.com/attachments/914863863940382760/
+  
 
 Das ist alles nicht in Stein gemeiselt und ich freu mich wenn wir ein paar Ausrufe noch sinnvoll kürzen oder verbessern können. Auch sonstige Probleme gern melden. Entweder hier als Issue oder im RSF Discord. Ich hätte aber ungern einen denglisch Mix, das ist für später geplant. Ich hab da auch schon einige Ideen für einige eigene Ausdrücke oder Kunstworte, die gut verständlich sind. Aber, erstmal das Grundgerüst bauen.
 
