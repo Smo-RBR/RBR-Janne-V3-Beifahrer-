@@ -3,7 +3,7 @@
 # Deutsche Calls
 - Alles was "schmal" ist bezieht sich auf die Strassenbreite
 - Enger, Verengt usw. bezieht sich auch Kurven
-- Quetscht bedeutet ![Sumppu](Plugins/Pacenote/Bilder/sumppu.png)
+- Quetscht bedeutet [Sumppu](Plugins/Pacenote/Bilder/sumppu.png)
 
   
 
