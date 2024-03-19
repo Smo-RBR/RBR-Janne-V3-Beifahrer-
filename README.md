@@ -1,4 +1,4 @@
-# Pre Beta und ohne Gewähr. Backup machen. Freu mich über Bugreports
+# Beta ohne Gewähr. Backup machen. Freu mich über Bugreports
 
 # Deutsche Calls
 - Alles was "schmal" ist bezieht sich auf die Strassenbreite
