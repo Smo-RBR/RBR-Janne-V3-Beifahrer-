@@ -4,7 +4,7 @@
 - Alles was "schmal" ist bezieht sich auf die Strassenbreite
 - Enger, Verengt usw. bezieht sich auf Kurven
 - Quetscht bedeutet [Sumppu](Plugins/Pacenote/Bilder/sumppu.png)
-- Überhöht = positive campber
+- Überhöht = positive Camber
 - Schiebt =negative Camber
 - Schikane links o. rechts = auf dieser Seite ist die Einfahrt in die Schikane
 
