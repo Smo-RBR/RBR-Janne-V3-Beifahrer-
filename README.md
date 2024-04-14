@@ -8,8 +8,30 @@
 - Schiebt =negative Camber
 - Schikane links o. rechts = auf dieser Seite ist die Einfahrt in die Schikane
 
-Das ist alles nicht in Stein gemeiselt und ich freu mich wenn wir ein paar Ausrufe noch sinnvoll kürzen oder verbessern können. 
-Es gibt zum probieren auch erstmal nur eine numerische Skala, aber, damit sollte ja jeder zurecht kommen.
+# Skala:
+
+![Skala](Plugins/Pacenote/Bilder/skala.png)
+
+Das Bild ist eine Legende für die Skalentabelle unten. Die Winkel entsprechen in etwa [Luppis Pacenote Pack V3](https://discord.com/channels/723091638951608320/1106176825442435142/1106176825442435142). Andere Pacenotes, insbesondere originale können vom Winkel her stark abweichen, aber die Reihenfolge der Calls stimmt trotzdem. Es gibt erstmal nur eine Skala, mehr kommen im Laufe der Zeit. Wenn du eine bestimmte Skala möchtest, mach einfach eine Issue auf.
+
+| X | Skala 1        |
+|---| ---------------|
+| A | Voll L/R       |
+| B | 6 L/R Plus     |
+| C | 6 L/R          |
+| D | 5 L/R Plus     |
+| E | 5 L/R          |
+| F | 4 L/R Plus     |
+| G | 4 L/R          |
+| H | 3 L/R Plus     |
+| I | 3 L/R          |
+| J | 90 L/R Plus    |
+| K | 90 L/R         |
+| L | 1 L/R Plus     |
+| M | 1 L/R          |
+| N | Kehre L/R Plus |
+| O | Kehre L/R      |
+| P | Spitz L/R      |
 
 # Installation
 Zuerst oben links unter dem grün unterlegtem "Code" die Dateien als .zip herunterladen
