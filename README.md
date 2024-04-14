@@ -14,7 +14,7 @@
 
 Das Bild ist eine Legende für die Skalentabelle unten. Die Winkel entsprechen in etwa [Luppis Pacenote Pack V3](https://discord.com/channels/723091638951608320/1106176825442435142/1106176825442435142). Andere Pacenotes, insbesondere originale können vom Winkel her stark abweichen, aber die Reihenfolge der Calls stimmt trotzdem. Es gibt erstmal nur eine Skala, mehr kommen im Laufe der Zeit. Wenn du eine bestimmte Skala möchtest, mach einfach eine Issue auf.
 
-| X | Skala 1        |
+| X | Skala       |
 |---| ---------------|
 | A | Voll L/R       |
 | B | 6 L/R Plus     |
