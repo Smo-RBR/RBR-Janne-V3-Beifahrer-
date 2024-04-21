@@ -43,3 +43,10 @@ Danach das heruntergeladene zip in Dein RBR Verzeichnis entpacken. Bei der Nachf
 # De-Installation
 Den Ordner RBR-Ordner\Audio und RBR-Ordner\Plugins\Pacenote löschen und dann die bei der Installation kopierten Ordner wieder in Audio und Pacenote umbenennen
 
+# Danksagungen
+
+- [Janne](https://www.youtube.com/c/JanneLaahanen), für all die Arbeit die neuen Calls zu etwickeln
+- [Luppis](https://discord.com/channels/723091638951608320/1106176825442435142/1106176825442435142), für seine fette Pacenotesammlung und der Interpretationshilfe für manche Calls
+- Workerbee, fürs Pacenote Plugin, und eh allem was er für RBR geleistet hat
+- Maik f!r3f0x_ fürs geduldige testen
+
