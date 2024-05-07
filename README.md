@@ -33,6 +33,14 @@ Das Bild ist eine Legende für die Skalentabelle unten. Die Winkel entsprechen i
 | O | Kehre L/R      |
 | P | Spitz L/R      |
 
+# Stimmen
+
+Anna Keller ist voreingestellt, eine gut verständliche weibliche Stimme
+
+Anna Lorenz, eine weibliche Stimme im Intercomm Stil
+
+Umstellen kann man die Stimmen in der Datei RBR-Verzeichnis/Plugins/Pacenote/Pacenote.ini, dort den Namen in der Zeile sounds= eintragen
+
 # Installation
 Zuerst oben links unter dem grün unterlegtem "Code" die Dateien als .zip herunterladen
 
